@@ -8,6 +8,7 @@
   line-height: 21px;
   letter-spacing: 0%;
   text-align: left;
+  padding: 92px 24px 96px 24px;
  }
   
 .header__menu {
@@ -176,14 +177,14 @@
 
 .lots__card-list {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 25px;
   list-style: none;
 }
 
 .lots__card-list-item {
   flex-grow: 1;
-  flex-basis: 430px;
+  flex-basis: 334px;
   height: 100%;
 }
 
