@@ -17,6 +17,7 @@
 .header__menu {
   grid-column: span 1;
   gap: 13px;
+  margin-left: 26.52px;
  }
   
 .header__links-list {
@@ -44,6 +45,7 @@
 .header__logo {
   grid-column: span 1;
   justify-content: center;
+  margin-left: 454px;
  }
  
 .header__logo-image {
