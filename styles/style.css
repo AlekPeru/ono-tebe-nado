@@ -11,11 +11,10 @@
   margin-top: 92px;
   margin-right: 12px;
   margin-left: 12px;
+  height: 105pxpx
  }
   
 .header__menu {
-  margin-top: 44px;
-  margin-left: 26.52px;
   grid-column: span 1;
   gap: 13px;
  }
