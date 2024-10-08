@@ -17,7 +17,7 @@
 .header__menu {
   grid-column: span 1;
   gap: 13px;
-  margin-left: 26.52px;
+  margin-left: 32px;
  }
   
 .header__links-list {
@@ -45,7 +45,7 @@
 .header__logo {
   grid-column: span 1;
   justify-content: center;
-  margin-left: 36px;
+  margin-left: 32px;
  }
  
 .header__logo-image {
@@ -79,7 +79,7 @@
  }
 
 .cover {
-  margin-top:94px;
+  margin-top:92px;
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-position: center;
