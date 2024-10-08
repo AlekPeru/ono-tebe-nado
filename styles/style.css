@@ -45,7 +45,7 @@
 .header__logo {
   grid-column: span 1;
   justify-content: center;
-  margin-left: 454px;
+  margin-left: 36px;
  }
  
 .header__logo-image {
@@ -79,7 +79,7 @@
  }
 
 .cover {
-  margin-top:96px;
+  margin-top:94px;
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-position: center;
