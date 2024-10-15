@@ -61,7 +61,6 @@
   max-width: 240px;
   margin-left: 181px;
   padding-right: 25.48px;
-  font-style:normal;
   text-decoration: none;
  }
   
@@ -69,8 +68,8 @@
   display: flex;
   flex-direction: column;
   align-items: start;
-  color: #000;  
- }
+  color: #000;
+}
   
 .address a {
   text-decoration-line: none;
@@ -351,7 +350,7 @@
   flex-direction: column;
   align-items: start;
   list-style: none;
-  text-decoration: none;
+  
 } 
 .footer__address {
   display: flex;
